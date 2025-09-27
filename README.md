@@ -1,2 +1,3 @@
-# store_game
-tugas mobile
+# gamestore
+
+A new Flutter project.
